@@ -51,7 +51,9 @@ I tested "DOG", "CAT", "TIGER" which all passed and said if they domestic or not
 ## Resources
 [List any resources you used (class slides, ChatGPT, etc.). Please refer to the course syllabus for more details on citations.]
 
-Class slides Day 3 that covered the shell scipt programming.
+Class slides Day 3 that covered the shell script programming.
+https://www.cyberciti.biz/faq/linux-unix-shell-programming-converting-lowercase-uppercase/ -- showed me how to lowercase a string.
 
 ## License
 This project is part of coursework for Chapman University and is intended for educational purposes.
+
